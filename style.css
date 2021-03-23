@@ -1,0 +1,17 @@
+.loader {
+  border-top: 16px solid blue;
+  border-right: 16px solid green;
+  border-bottom: 16px solid red;
+  border-left: 16px solid pink;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: rgb(255, 255, 255);
+}
+#projects {
+  background-color: rgb(255, 255, 255);
+}
+
+section {
+  padding-top: 5rem;
+}
